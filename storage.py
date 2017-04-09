@@ -1,0 +1,2 @@
+class NumbersStorage:
+    storage = []
